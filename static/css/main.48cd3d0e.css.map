@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.48cd3d0e.css","mappings":"AAAA,MACI,qBACJ,CAEA,MACI,UACJ","sources":["style.css"],"sourcesContent":[".dark{\r\n    background-color: black;\r\n}\r\n\r\n.text{\r\n    color:white;\r\n}"],"names":[],"sourceRoot":""}
